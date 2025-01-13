@@ -1,9 +1,7 @@
-# whulib
-资料整理
-更新ing~
+# Cheese's lib
+复习资料不定时整理
 
 # Courses List
-计算机组成原理
+操作系统
 编译原理
-汇编语言
 ...
